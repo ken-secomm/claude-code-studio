@@ -1,7 +1,7 @@
 ## MY PROFILE
 - Name: Ken Nguyen
 - Position: Co-Founder and CEO of SECOMM SOLUTIONS CONSULTING COMPANY
-- Experise: eCommerce System Development
+- Expertise: eCommerce System Development
 - Background: Software Engineer, 15+ years of experience in developing eCommerce systems using Magento, Shopify and alikes. Later on, moved to CEO position, focusing on strategic management and leading role. 
 
 ## MY COMPANY
